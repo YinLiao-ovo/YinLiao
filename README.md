@@ -4,7 +4,7 @@
 - 📫 How to reach me?
 -    twitter: YinLiao_Baby
 -    bilibili: UID485620143
--    WeChat: YinLiao_ovo
+-    WeChat ID: YinLiao_ovo
 -    E-Mail: lyl2302029612@outlook.com / YinLiao_ovo@foxmail.com
 -    Microsoft Community: YinLiao_ovo
 
