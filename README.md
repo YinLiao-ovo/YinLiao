@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @YinLiao-ovo, a student from Shandong Zibo Experimental High School. Microsoft Windows Insider Programer.
-- 👀 I’m interested in Microsoft software and Windows.
+- 👋 Hi, I’m @YinLiao-ovo, graduated from Shandong Zibo Experimental High School. Microsoft Windows Insider Programe Member.
+- 👀 I’m interested in Microsoft software and Windows, can compose pop music independently, and I have been creating calligraphy works for 12 years now.
 - 🌱 I’m currently learning python and C++.
 - 📫 How to reach me?
 -    twitter: YinLiao_Baby
