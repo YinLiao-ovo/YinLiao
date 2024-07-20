@@ -1,4 +1,6 @@
 # 简历 | Profile
+&emsp;&emsp;饮料，本名刘彦麟。19岁，2005年出生于山东淄博，毕业于山东淄博实验中学。本科现就读于华北科技学院网络工程专业，2020年12月加入中国共产主义青年团，学生。
+
 - 👋 I’m Yin Liao, graduated from Shandong Zibo Experimental High School. Microsoft Windows Insider Programe Member.
 - 👀 I’m interested in Microsoft software and Windows, can compose pop music independently, and I have been creating calligraphy works for 12 years now.
 - 🌱 I’m currently learning python and C++.
